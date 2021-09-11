@@ -1,0 +1,5 @@
+package LSP
+
+trait Category {
+
+}
